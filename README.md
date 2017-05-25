@@ -185,12 +185,3 @@ Shut it down manually with `Ctrl-C`.
 
 [travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
-
-## Contribution
-
-This Kendo UI package for Angular is distributed under a permissive [MIT License](https://github.com/telerik/kendo-angular-quickstart/blob/master/LICENSE). We accept contributions from the public.
-
-Before you pose your suggestions, please make sure that you:
-
-1. Read and sign the [Kendo UI for Angular Contribution License Agreement (CLA)](goo.gl/forms/dXc1RaE8le6rVZ0h1). The CLA confirms that you acknowledge the legal aspects of your contributions.
-2. Submit a Pull Request.
