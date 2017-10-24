@@ -104,6 +104,11 @@
         main: './dist/npm/main.js',
         defaultExtension: 'js'
       },
+      
+      'npm:@progress/kendo-angular-pdf-export': {
+          main: './dist/npm/main.js',
+          defaultExtension: 'js'
+        },
 
       'npm:@progress/kendo-angular-inputs': {
         main: './dist/npm/main.js',
