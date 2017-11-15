@@ -58,10 +58,6 @@ import { products } from './products';
       color: #888;
     }
   `],
-  styleUrls: [
-    // load the Kendo UI Default theme
-    'node_modules/@progress/kendo-theme-default/dist/all.css'
-  ],
   template: `
     <kendo-grid [kendoGridBinding]="products" [pageable]="true" [pageSize]="10" [height]="490">
         <ng-template kendoGridToolbarTemplate>
